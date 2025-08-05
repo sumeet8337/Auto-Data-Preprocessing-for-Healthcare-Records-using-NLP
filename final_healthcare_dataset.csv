@@ -1,0 +1,101 @@
+PatientID,Gender,Age,Diagnosis,Treatment,Age_Category,Medicine,Blood_Pressure,Sugar_Level,Risk_Level,Treatment_Timeline
+1,10,20.0,20,Rest,31,42,154,73,High,"Day 1-3: Med A, Day 4-7: Med B, Day 8: Review"
+2,12,12.0,21,Oxygen,30,40,170,189,High,"Day 1-5: Med C, Day 6-10: Med D"
+3,10,NaN,22,Chemotherapy,33,41,152,77,High,"Day 1-7: Med E, Day 8-14: Med F, Day 15: chemotherapy"
+4,11,65.0,20,Rest,32,40,149,145,High,"Day 1-3: Med A, Day 4-7: Med B, Day 8: Review"
+5,10,NaN,-1,Medicine,33,41,144,199,High,Consult doctor
+6,11,33.0,-1,Medicine,31,42,146,188,High,Consult doctor
+7,10,3.0,-1,Oxygen,30,40,129,73,Medium,Consult doctor
+8,12,34.0,22,Chemotherapy,31,42,88,99,Low,"Day 1-7: Med E, Day 8-14: Med F, Day 15: chemotherapy"
+9,11,75.0,20,Rest,32,40,137,133,Medium,"Day 1-3: Med A, Day 4-7: Med B, Day 8: Review"
+10,11,10.0,-1,Medicine,30,40,174,134,High,Consult doctor
+11,10,20.0,20,Rest,31,42,122,190,High,"Day 1-3: Med A, Day 4-7: Med B, Day 8: Review"
+12,12,12.0,-1,Oxygen,30,40,166,96,High,Consult doctor
+13,10,NaN,20,Rest,33,41,117,138,Medium,"Day 1-3: Med A, Day 4-7: Med B, Day 8: Review"
+14,12,65.0,-1,Oxygen,32,40,139,98,Medium,Consult doctor
+15,10,NaN,22,Chemotherapy,33,41,105,163,High,"Day 1-7: Med E, Day 8-14: Med F, Day 15: chemotherapy"
+16,11,33.0,20,Rest,31,42,126,113,Medium,"Day 1-3: Med A, Day 4-7: Med B, Day 8: Review"
+17,10,3.0,-1,Medicine,30,40,121,100,Medium,Consult doctor
+18,11,34.0,-1,Medicine,31,42,173,102,High,Consult doctor
+19,10,75.0,-1,Oxygen,32,40,86,118,Low,Consult doctor
+20,12,10.0,22,Chemotherapy,30,40,179,196,High,"Day 1-7: Med E, Day 8-14: Med F, Day 15: chemotherapy"
+21,11,20.0,20,Rest,31,42,129,83,Medium,"Day 1-3: Med A, Day 4-7: Med B, Day 8: Review"
+22,11,12.0,-1,Medicine,30,40,128,94,Medium,Consult doctor
+23,10,NaN,20,Rest,33,41,129,89,Medium,"Day 1-3: Med A, Day 4-7: Med B, Day 8: Review"
+24,12,65.0,-1,Oxygen,32,40,122,84,Medium,Consult doctor
+25,10,NaN,20,Rest,33,41,96,85,Low,"Day 1-3: Med A, Day 4-7: Med B, Day 8: Review"
+26,12,33.0,-1,Oxygen,31,42,152,121,High,Consult doctor
+27,10,3.0,22,Chemotherapy,30,40,156,184,High,"Day 1-7: Med E, Day 8-14: Med F, Day 15: chemotherapy"
+28,11,34.0,20,Rest,31,42,166,107,High,"Day 1-3: Med A, Day 4-7: Med B, Day 8: Review"
+29,10,75.0,-1,Medicine,32,40,163,141,High,Consult doctor
+30,11,10.0,-1,Medicine,30,40,141,193,High,Consult doctor
+31,10,20.0,-1,Oxygen,31,42,134,158,Medium,Consult doctor
+32,12,12.0,22,Chemotherapy,30,40,110,182,High,"Day 1-7: Med E, Day 8-14: Med F, Day 15: chemotherapy"
+33,11,NaN,20,Rest,33,41,130,120,Medium,"Day 1-3: Med A, Day 4-7: Med B, Day 8: Review"
+34,11,65.0,-1,Medicine,32,40,129,113,Medium,Consult doctor
+35,10,NaN,20,Rest,33,41,140,176,High,"Day 1-3: Med A, Day 4-7: Med B, Day 8: Review"
+36,12,33.0,-1,Oxygen,31,42,107,145,Medium,Consult doctor
+37,10,3.0,20,Rest,30,40,127,152,Medium,"Day 1-3: Med A, Day 4-7: Med B, Day 8: Review"
+38,12,34.0,-1,Oxygen,31,42,115,101,Low,Consult doctor
+39,10,75.0,22,Chemotherapy,32,40,140,136,Medium,"Day 1-7: Med E, Day 8-14: Med F, Day 15: chemotherapy"
+40,11,10.0,20,Rest,30,40,124,119,Medium,"Day 1-3: Med A, Day 4-7: Med B, Day 8: Review"
+41,10,20.0,-1,Medicine,31,42,161,109,High,Consult doctor
+42,11,12.0,-1,Medicine,30,40,91,189,High,Consult doctor
+43,10,NaN,-1,Oxygen,33,41,122,146,Medium,Consult doctor
+44,12,65.0,22,Chemotherapy,32,40,99,169,High,"Day 1-7: Med E, Day 8-14: Med F, Day 15: chemotherapy"
+45,11,NaN,20,Rest,33,41,156,120,High,"Day 1-3: Med A, Day 4-7: Med B, Day 8: Review"
+46,11,33.0,-1,Medicine,31,42,168,180,High,Consult doctor
+47,10,3.0,20,Rest,30,40,88,102,Low,"Day 1-3: Med A, Day 4-7: Med B, Day 8: Review"
+48,12,34.0,-1,Oxygen,31,42,159,121,High,Consult doctor
+49,10,75.0,20,Rest,32,40,155,166,High,"Day 1-3: Med A, Day 4-7: Med B, Day 8: Review"
+50,12,10.0,-1,Oxygen,30,40,175,183,High,Consult doctor
+51,10,20.0,22,Chemotherapy,31,42,98,90,Low,"Day 1-7: Med E, Day 8-14: Med F, Day 15: chemotherapy"
+52,11,12.0,20,Rest,30,40,131,80,Medium,"Day 1-3: Med A, Day 4-7: Med B, Day 8: Review"
+53,10,NaN,-1,Medicine,33,41,83,192,High,Consult doctor
+54,11,65.0,-1,Medicine,32,40,90,123,Low,Consult doctor
+55,10,NaN,-1,Oxygen,33,41,133,163,High,Consult doctor
+56,12,33.0,22,Chemotherapy,31,42,158,177,High,"Day 1-7: Med E, Day 8-14: Med F, Day 15: chemotherapy"
+57,11,3.0,20,Rest,30,40,107,194,High,"Day 1-3: Med A, Day 4-7: Med B, Day 8: Review"
+58,11,34.0,-1,Medicine,31,42,86,79,Low,Consult doctor
+59,10,75.0,20,Rest,32,40,123,116,Medium,"Day 1-3: Med A, Day 4-7: Med B, Day 8: Review"
+60,12,10.0,-1,Oxygen,30,40,105,171,High,Consult doctor
+61,10,20.0,20,Rest,31,42,164,176,High,"Day 1-3: Med A, Day 4-7: Med B, Day 8: Review"
+62,12,12.0,-1,Oxygen,30,40,167,101,High,Consult doctor
+63,10,NaN,22,Chemotherapy,33,41,89,188,High,"Day 1-7: Med E, Day 8-14: Med F, Day 15: chemotherapy"
+64,11,65.0,20,Rest,32,40,96,129,Low,"Day 1-3: Med A, Day 4-7: Med B, Day 8: Review"
+65,10,NaN,-1,Medicine,33,41,117,72,Low,Consult doctor
+66,11,33.0,-1,Medicine,31,42,145,114,High,Consult doctor
+67,10,3.0,-1,Oxygen,30,40,109,90,Low,Consult doctor
+68,12,34.0,22,Chemotherapy,31,42,149,136,High,"Day 1-7: Med E, Day 8-14: Med F, Day 15: chemotherapy"
+69,11,75.0,20,Rest,32,40,131,95,Medium,"Day 1-3: Med A, Day 4-7: Med B, Day 8: Review"
+70,11,10.0,-1,Medicine,30,40,137,71,Medium,Consult doctor
+71,10,20.0,20,Rest,31,42,113,146,Medium,"Day 1-3: Med A, Day 4-7: Med B, Day 8: Review"
+72,12,12.0,-1,Oxygen,30,40,121,182,High,Consult doctor
+73,10,NaN,20,Rest,33,41,133,183,High,"Day 1-3: Med A, Day 4-7: Med B, Day 8: Review"
+74,12,65.0,-1,Oxygen,32,40,169,104,High,Consult doctor
+75,10,NaN,22,Chemotherapy,33,41,81,165,High,"Day 1-7: Med E, Day 8-14: Med F, Day 15: chemotherapy"
+76,11,33.0,20,Rest,31,42,122,190,High,"Day 1-3: Med A, Day 4-7: Med B, Day 8: Review"
+77,10,3.0,-1,Medicine,30,40,166,135,High,Consult doctor
+78,11,34.0,-1,Medicine,31,42,155,171,High,Consult doctor
+79,10,75.0,-1,Oxygen,32,40,145,174,High,Consult doctor
+80,12,10.0,22,Chemotherapy,30,40,157,168,High,"Day 1-7: Med E, Day 8-14: Med F, Day 15: chemotherapy"
+81,11,20.0,20,Rest,31,42,124,109,Medium,"Day 1-3: Med A, Day 4-7: Med B, Day 8: Review"
+82,11,12.0,-1,Medicine,30,40,145,87,High,Consult doctor
+83,10,NaN,20,Rest,33,41,163,75,High,"Day 1-3: Med A, Day 4-7: Med B, Day 8: Review"
+84,12,65.0,-1,Oxygen,32,40,95,181,High,Consult doctor
+85,10,NaN,22,Chemotherapy,33,41,103,166,High,"Day 1-7: Med E, Day 8-14: Med F, Day 15: chemotherapy"
+86,11,33.0,20,Rest,31,42,114,196,High,"Day 1-3: Med A, Day 4-7: Med B, Day 8: Review"
+87,10,3.0,-1,Medicine,30,40,108,106,Low,Consult doctor
+88,11,34.0,-1,Medicine,31,42,114,104,Low,Consult doctor
+89,10,75.0,-1,Oxygen,32,40,114,123,Low,Consult doctor
+90,12,10.0,22,Chemotherapy,30,40,81,116,Low,"Day 1-7: Med E, Day 8-14: Med F, Day 15: chemotherapy"
+91,11,20.0,20,Rest,31,42,95,105,Low,"Day 1-3: Med A, Day 4-7: Med B, Day 8: Review"
+92,11,12.0,-1,Medicine,30,40,126,178,High,Consult doctor
+93,10,NaN,20,Rest,33,41,157,96,High,"Day 1-3: Med A, Day 4-7: Med B, Day 8: Review"
+94,10,65.0,20,Rest,32,40,160,120,High,"Day 1-3: Med A, Day 4-7: Med B, Day 8: Review"
+95,12,NaN,-1,Oxygen,33,41,122,127,Medium,Consult doctor
+96,10,33.0,22,Chemotherapy,31,42,156,86,High,"Day 1-7: Med E, Day 8-14: Med F, Day 15: chemotherapy"
+97,11,3.0,20,Rest,30,40,91,192,High,"Day 1-3: Med A, Day 4-7: Med B, Day 8: Review"
+98,10,34.0,20,Rest,31,42,155,185,High,"Day 1-3: Med A, Day 4-7: Med B, Day 8: Review"
+99,12,75.0,-1,Oxygen,32,40,107,175,High,Consult doctor
+100,10,10.0,22,Chemotherapy,30,40,165,93,High,"Day 1-7: Med E, Day 8-14: Med F, Day 15: chemotherapy"

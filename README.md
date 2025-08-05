@@ -1,1 +1,4 @@
 # Auto-Data-Preprocessing-for-Healthcare-Records-using-NLP
+
+In the healthcare industry, accurate and clean data is essential for effective decision-making, patient care, and research purpose. However, healthcare records, including Electronic Health Records (EHRs), often contain a vast amount of unstructured and inconsistent data, which can negatively impact the quality and reliability of the information. Manual data cleansing processes are time consuming, causing error, and not scalable, especially when dealing with large datasets. The project aims to automate the data preprocessing (cleansing) for healthcare records using Natural Language Processing (NLP) techniques. By advanced NLP methods such as entity recognition, text normalization, and error detection, this system automatically identifies and corrects inconsistencies, duplicates, errors, and missing data in healthcare records. 
+
